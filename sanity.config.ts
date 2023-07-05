@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'gold-worm',
+  title: 'cm-leads',
 
   projectId: 'i39iwitw',
   dataset: 'production',
